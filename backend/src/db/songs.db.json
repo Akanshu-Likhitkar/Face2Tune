@@ -1,0 +1,139 @@
+{
+  "songs": [
+    {
+      "_id": "1",
+      "title": "Happy Arijit Singh",
+      "artist": "Arijit Singh",
+      "audio": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3",
+      "mood": "happy",
+      "createdAt": "2025-11-17T11:22:37.020Z",
+      "updatedAt": "2025-11-17T11:22:37.021Z"
+    },
+    {
+      "_id": "2",
+      "title": "Baarish Ban Jaana",
+      "artist": "B Praak",
+      "audio": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3",
+      "mood": "happy",
+      "createdAt": "2025-11-17T11:22:37.021Z",
+      "updatedAt": "2025-11-17T11:22:37.021Z"
+    },
+    {
+      "_id": "3",
+      "title": "Gerua",
+      "artist": "Arijit Singh",
+      "audio": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3",
+      "mood": "happy",
+      "createdAt": "2025-11-17T11:22:37.021Z",
+      "updatedAt": "2025-11-17T11:22:37.021Z"
+    },
+    {
+      "_id": "4",
+      "title": "Tum Jo Aaye",
+      "artist": "KK",
+      "audio": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-4.mp3",
+      "mood": "sad",
+      "createdAt": "2025-11-17T11:22:37.021Z",
+      "updatedAt": "2025-11-17T11:22:37.021Z"
+    },
+    {
+      "_id": "5",
+      "title": "Alone - Sad Song",
+      "artist": "Arijit Singh",
+      "audio": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-5.mp3",
+      "mood": "sad",
+      "createdAt": "2025-11-17T11:22:37.021Z",
+      "updatedAt": "2025-11-17T11:22:37.021Z"
+    },
+    {
+      "_id": "6",
+      "title": "Kabhi Kabhi",
+      "artist": "Jagjit Singh",
+      "audio": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-6.mp3",
+      "mood": "sad",
+      "createdAt": "2025-11-17T11:22:37.021Z",
+      "updatedAt": "2025-11-17T11:22:37.021Z"
+    },
+    {
+      "_id": "7",
+      "title": "Meditation Music",
+      "artist": "A.R. Rahman",
+      "audio": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-7.mp3",
+      "mood": "neutral",
+      "createdAt": "2025-11-17T11:22:37.021Z",
+      "updatedAt": "2025-11-17T11:22:37.021Z"
+    },
+    {
+      "_id": "8",
+      "title": "Dil Se",
+      "artist": "A.R. Rahman",
+      "audio": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-8.mp3",
+      "mood": "neutral",
+      "createdAt": "2025-11-17T11:22:37.021Z",
+      "updatedAt": "2025-11-17T11:22:37.021Z"
+    },
+    {
+      "_id": "9",
+      "title": "Relaxing Classic",
+      "artist": "Traditional",
+      "audio": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-9.mp3",
+      "mood": "neutral",
+      "createdAt": "2025-11-17T11:22:37.021Z",
+      "updatedAt": "2025-11-17T11:22:37.021Z"
+    },
+    {
+      "_id": "10",
+      "title": "Duma Dum",
+      "artist": "Deepika Padukone",
+      "audio": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-10.mp3",
+      "mood": "excited",
+      "createdAt": "2025-11-17T11:22:37.021Z",
+      "updatedAt": "2025-11-17T11:22:37.021Z"
+    },
+    {
+      "_id": "11",
+      "title": "Aankh Maare",
+      "artist": "Kumar Sanu",
+      "audio": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3",
+      "mood": "excited",
+      "createdAt": "2025-11-17T11:22:37.021Z",
+      "updatedAt": "2025-11-17T11:22:37.021Z"
+    },
+    {
+      "_id": "12",
+      "title": "Gallan Goodiyaan",
+      "artist": "Harshdeep Kaur",
+      "audio": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3",
+      "mood": "excited",
+      "createdAt": "2025-11-17T11:22:37.021Z",
+      "updatedAt": "2025-11-17T11:22:37.021Z"
+    },
+    {
+      "_id": "13",
+      "title": "Agneepath",
+      "artist": "Ajay Devgn",
+      "audio": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3",
+      "mood": "angry",
+      "createdAt": "2025-11-17T11:22:37.021Z",
+      "updatedAt": "2025-11-17T11:22:37.021Z"
+    },
+    {
+      "_id": "14",
+      "title": "Khiladi Theme",
+      "artist": "Akshay Kumar",
+      "audio": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-4.mp3",
+      "mood": "angry",
+      "createdAt": "2025-11-17T11:22:37.021Z",
+      "updatedAt": "2025-11-17T11:22:37.021Z"
+    },
+    {
+      "_id": "15",
+      "title": "Dhoom Theme",
+      "artist": "Vishal-Shekhar",
+      "audio": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-5.mp3",
+      "mood": "angry",
+      "createdAt": "2025-11-17T11:22:37.021Z",
+      "updatedAt": "2025-11-17T11:22:37.021Z"
+    }
+  ]
+}

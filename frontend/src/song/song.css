@@ -1,0 +1,139 @@
+
+.song-container {
+  width: 100%;
+  max-width: 520px;
+  margin: 40px auto;
+  padding: 28px 24px;
+  border-radius: 18px;
+  background: rgba(255, 255, 255, 0.55);
+  backdrop-filter: blur(14px);
+  -webkit-backdrop-filter: blur(14px);
+  border: 1.5px solid rgba(230, 230, 255, 0.5);
+  box-shadow: 0 10px 30px rgba(0,0,0,0.1);
+  font-family: "Poppins", sans-serif;
+}
+
+.song-title {
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 700;
+  color: #1f2937;
+  margin-bottom: 10px;
+}
+
+
+.mood-tag {
+  text-align: center;
+  color: #6d28d9;
+  font-weight: 500;
+  background: linear-gradient(90deg, #ede9fe, #c7d2fe);
+  border-radius: 10px;
+  padding: 10px 14px;
+  margin-bottom: 20px;
+}
+
+
+.loading-text {
+  text-align: center;
+  color: #6b7280;
+}
+
+.error-text {
+  text-align: center;
+  color: #ef4444;
+  font-weight: 600;
+}
+
+.no-songs {
+  text-align: center;
+  color: #9ca3af;
+}
+
+.song-card {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 15px 18px;
+  margin-bottom: 16px;
+  background: rgba(255, 255, 255, 0.9);
+  border-radius: 14px;
+  cursor: pointer;
+  border: 1px solid #e5e7eb;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.05);
+  transition: 0.25s ease;
+}
+
+.song-card:hover {
+  transform: translateY(-3px);
+}
+
+
+.active-song {
+  background: linear-gradient(90deg, #c7d2fe, #ede9fe);
+  border: 1.5px solid #a5b4fc;
+  box-shadow: 0 8px 22px rgba(109, 99, 255, 0.2);
+}
+
+
+.song-info {
+  flex: 1;
+  min-width: 0;
+}
+
+.song-name {
+  margin: 0;
+  font-size: 1.05rem;
+  font-weight: 600;
+  color: #111827;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  overflow: hidden;
+}
+
+.song-artist {
+  margin: 4px 0 0;
+  font-size: 0.9rem;
+  color: #6b7280;
+}
+
+
+.song-audio {
+  margin-top: 8px;
+  width: 100%;
+  border-radius: 6px;
+  outline: none;
+}
+
+
+.song-icon {
+  margin-left: 18px;
+  font-size: 2.5rem;
+  color: #7c3aed;
+  transition: 0.25s ease;
+}
+
+.active-song .song-icon {
+  color: #6d28d9;
+}
+
+.song-icon:hover {
+  transform: scale(1.1);
+}
+
+@media (max-width: 480px) {
+  .song-container {
+    padding: 20px;
+  }
+
+  .song-title {
+    font-size: 1.5rem;
+  }
+
+  .song-card {
+    padding: 14px;
+  }
+
+  .song-icon {
+    font-size: 2.2rem;
+  }
+}
